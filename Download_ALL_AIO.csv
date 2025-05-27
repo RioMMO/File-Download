@@ -1,19 +1,8 @@
-﻿Memu,Submenu1,Submenu2,Link 1,Link 2
-DOWNLOAD USB BOOT CỨU HỘ MÁY TÍNH,,,,
-,USB BOOT ANHDVBOOT 2025,,,
-,VENTOY – Bootable USB Solution,,,
-,NHV BOOT 2024 V1770 EXTREME,,,
-,MCBoot_vn 2024 v10.2 build 010424 Pro,,,
-DOWNLOAD WINDOWN 7/8/8.1/10/11,,,,
-DOWNLOAD BỘ CÀI ĐẶT PHẦN MỀM ĐA NĂNG,,,,
-"DOWNLOAD MỘT SỐ PHẦN MỀM KHÁC NHƯ (PHOTOSHOP, CORELL,OFFICE,...)",,,,
-,COREL,,,
-,,2010,,
-,,2011,,
-,,2012,,
-,Photoshop,,,
-,,CS1,,
-,,CS2,,
-,OFFICE,,,
-,,OFFICE 2015,,
-,,OFFICE 2016,,
+Menu,Submenu,Sub-submenu,Link1,Link2
+Office,Word,2019,https://drive.google.com/drive/folders/abc,https://1drv.ms/f/s!xyz
+Office,Word,2021,https://drive.google.com/drive/folders/def,https://1drv.ms/f/s!uvw
+Office,Excel,2019,https://drive.google.com/drive/folders/ghi,https://1drv.ms/f/s!rst
+Office,Excel,2021,https://drive.google.com/drive/folders/jkl,https://1drv.ms/f/s!opq
+Tools,7-Zip,,https://drive.google.com/drive/folders/mno,https://1drv.ms/f/s!klm
+System,Drivers,Intel,https://drive.google.com/drive/folders/pqr,https://1drv.ms/f/s!def
+System,Activator,,https://drive.google.com/drive/folders/stu,https://1drv.ms/f/s!ghi
