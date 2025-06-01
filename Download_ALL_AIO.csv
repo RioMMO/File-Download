@@ -12,7 +12,8 @@ GHOST WINDOWNS,Ghost Win 7,,https://github.com/RioMMO/File-Download/blob/main/Do
 GHOST WINDOWNS,Ghost Win 10,,https://github.com/RioMMO/File-Download/blob/main/Download_ALL_AIO.csv
 GHOST WINDOWNS,Ghost Win 11,,https://github.com/RioMMO/File-Download/blob/main/Download_ALL_AIO.csv
 GHOST WINDOWNS,Ghost Others,,https://github.com/RioMMO/File-Download/blob/main/Download_ALL_AIO.csv
-DOWNLOAD WINDOWS,Windows 7,,https://github.com/RioMMO/File-Download/blob/main/Download_ALL_AIO.csv
+DOWNLOAD WINDOWS,Windows 7,Windows 7 home 32bit,https://github.com/RioMMO/File-Download/blob/main/Download_ALL_AIO.csv
+DOWNLOAD WINDOWS,Windows 7,Windows 7 home 64bit,https://github.com/RioMMO/File-Download/blob/main/Download_ALL_AIO.csv
 DOWNLOAD WINDOWS,Windows 10,,https://github.com/RioMMO/File-Download/blob/main/Download_ALL_AIO.csv
 DOWNLOAD WINDOWS,Windows 11,,https://github.com/RioMMO/File-Download/blob/main/Download_ALL_AIO.csv
 DOWNLOAD WINDOWS,Windows LITE,,https://github.com/RioMMO/File-Download/blob/main/Download_ALL_AIO.csv
